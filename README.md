@@ -1,6 +1,6 @@
-## Hi, I'm Samadhan Siddharth 👋
+## Hi, I'm Samadhan Sid 👋
 
-**Full-stack .NET + Angular developer** · 3.5+ years building banking & fintech systems · Mumbai, India
+**Full-stack .NET + Angular developer** · 4.5+ years building banking & fintech systems · Mumbai, India
 
 - 🏦 Software Engineer at **CMSS Pvt Ltd** — building the **E-Settlement System** for ICICI Bank
 - 🧪 Previously at **20 B Software Services** — worked on **SpeedExam**, an online exam & proctoring platform
@@ -10,7 +10,7 @@
 ### 🛠 Tech stack
 
 **Backend:** C# · VB.NET · ASP.NET Core · ASP.NET WebForms · Entity Framework · SQL Server<br>
-**Frontend:** Angular 17+ · TypeScript · RxJS · NgRx<br>
+**Frontend:** Angular 18+ · TypeScript · RxJS · NgRx<br>
 **Also:** Python · Git · REST APIs · WebRTC
 
 <p>
