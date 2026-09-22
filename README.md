@@ -1,4 +1,4 @@
-## Hi, I'm Siddharth (Samadhan Sid) 👋
+## Hi, I'm Samadhan Siddharth 👋
 
 **Full-stack .NET + Angular developer** · 3.5+ years building banking & fintech systems · Mumbai, India
 
